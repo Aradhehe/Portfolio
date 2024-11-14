@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.hero-section {
+    background: url('BG.jpg') no-repeat center center/cover;
+    height: 100vh;
+}
+
+.hero-section h1 span {
+    color: #007bff;
+}
+
+.about-section img {
+    max-height: 300px;
+    border-radius: 10px;
+}
+
+.skills-section i {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+}
